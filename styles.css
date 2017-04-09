@@ -274,8 +274,8 @@ _:-ms-input-placeholder, :root .demo-graph {
   height: 30%;
   border-radius: 150px;
   margin-left: 5%;
-  display: block;
   margin-bottom: 20%;
+  margin-top: 10%;
 
 }
 
